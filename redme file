@@ -1,1 +1,37 @@
-
+Batch 047_DA_DS_ Mini Project
+Use Pandas for performing data analysis, followed by Matplotlib and 
+Seaborn visualizations.
+Department Employee Salary Experience
+HR Asha 45000 2
+IT Ravi 60000 4
+HR John 52000 3
+IT Meera 65000 5
+Finance Kiran 70000 6
+Finance Lata 68000 4
+Tasks
+A. Pandas Analysis
+1. Find the average salary per department.
+2. Count the number of employees in each department.
+3. Compute the total experience for each department.
+4. Find the highest salary within each department.
+5. Perform multiple aggregations: mean salary and max experience.
+Batch 047_DA_DS_ Mini Project
+6. Sort departments by total salary spent.
+7. Obtain min and max salary for every department.
+8. Generate descriptive statistics for salary grouped by department.
+9. Display employee count and average experience per department using 
+agg.
+10. Compute salary range (max - min) for each department using a 
+custom function.
+B. Visualization Tasks
+1. Plot salary of each employee using a bar chart.
+2. Create a bar graph showing average salary per department.
+3. Plot experience distribution of employees using a histogram.
+4. Create a boxplot showing salary distribution across departments.
+5. Draw a scatter plot of experience vs salary.
+6. Create a pie chart showing employee distribution across departments.
+7. Plot a correlation heatmap for salary and experience.
+8. Draw a line plot of employees vs their salaries.
+9. Create a countplot for employees in each department.
+10. Combine multiple graphs into subplots.
+All the best
